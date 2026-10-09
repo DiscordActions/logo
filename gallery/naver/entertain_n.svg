@@ -1,0 +1,6 @@
+<svg width="512" height="512" viewBox="0 0 26 26" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>네이버 N Discord 아이콘</title>
+  <desc>Discord 원형 표시를 위해 투명 상단 여백 제거 및 N 도형 중앙 정렬. 사용자 제공 도형 보존.</desc>
+  <path d="M0 0H26V26H0Z" fill="#FA4FC1"/>
+  <path transform="translate(0.28932 -0.20972)" d="M14.7443 13.6092L10.51 7.54834H7.00024V18.8711H10.6771V12.8103L14.9113 18.8711H18.4211V7.54834H14.7443V13.6092Z" fill="#fff"/>
+</svg>
